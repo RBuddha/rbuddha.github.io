@@ -5,10 +5,11 @@ body {
 }
 
 .jumbotron {
-  background-image:            url("http://i.imgur.com/Kn6bvd3.jpg");
+  /*background-image:            url("http://i.imgur.com/Kn6bvd3.jpg");*/
+  background-image: url("http://i67.tinypic.com/2vtp8jk.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: right top;
+  /*background-size: cover;*/
+  background-position: left top;
 }
 
 .jumbotron h2 {
