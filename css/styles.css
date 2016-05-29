@@ -19,12 +19,11 @@ body {
 
 .jumbotron p {
   font-size: 1.5em;
-  /*color: #fff;*/
 }
 .jumbotron .btn{
   font-size: .5em;
 }
-body h2,
+body 
 h3 {
   font-family: 'Amatic SC', cursive; 
   padding-bottom: 20px;
