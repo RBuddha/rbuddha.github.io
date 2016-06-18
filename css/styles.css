@@ -23,13 +23,17 @@ body {
 .jumbotron .btn {
   font-size: .5em;
 }
-
-body h3 {
+ h3 {
   font-family: 'Amatic SC', cursive;
   padding-bottom: 20px;
   font-weight: bold;
 }
-
+ h4 {
+  font-family: 'Amatic SC', cursive;
+  padding-bottom: 20px;
+  font-weight: bold;
+  font-size: 1em;
+}
 .btn {
   font-size: .75em;
 }
